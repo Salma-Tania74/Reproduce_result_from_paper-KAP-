@@ -1,1 +1,1 @@
-# Reproduce_result_from_paper-KAP-
+# Reproduce_result_KAP
